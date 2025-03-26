@@ -9,3 +9,4 @@ A Python implementation of the classic hand game!
 
 ## Run the Game
 ```bash
+python snake_water_gun.py
